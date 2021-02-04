@@ -1,0 +1,17 @@
+{
+  "name": "simple-vanilla-boilerplate",
+  "version": "1.0.0",
+  "description": "바닐라 자바스크립트 프로젝트를 위한 간단한 보일러플레이트입니다.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nashu",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.6"
+  }
+}
